@@ -234,7 +234,7 @@ def countryguess():
 #this is the main menu area of the program
 print("")
 print("#######################################################")
-print("#		  Made By Dean O'Neill  B00091839		   	 #")
+print("#		  Made By CyberViking                #")
 print("#######################################################")
 print("")
 print("Options Menu:")
